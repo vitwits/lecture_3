@@ -1,3 +1,5 @@
+'use strict'
+
 function Tamagotchi (name, age) {
   this.name = name
   this.age = age
